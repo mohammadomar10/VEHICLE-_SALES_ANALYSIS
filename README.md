@@ -13,8 +13,6 @@ This dataset contains information on vehicle sales, including car prices, featur
 
 The Vehicle Sales Dataset provides detailed information about car sales, including pricing, specifications, and other relevant attributes. This dataset is useful for exploring trends in the automotive market, performing price predictions, and analyzing consumer preferences.
 
-## Dataset Files 
-
 ## Dataset  
 The dataset used in this project is **car_prices.csv**, which contains vehicle sales information.  
 You can download it from [this repository](https://github.com/your-username/your-repository).  
